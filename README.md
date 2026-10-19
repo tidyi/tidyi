@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm tidyi </h1>
+<h1 align="center">Hey, I'm tidyi. </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+%26+C%2B%2B+Developer;Learning+Something+New+Every+Day;Turning+Ideas+Into+Code" alt="Typing animation" />
